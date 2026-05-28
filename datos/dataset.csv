@@ -1,1 +1,6 @@
-dataset ventas
+producto,cantidad,precio,fecha
+Notebook,2,350000,2026-01-10
+Mouse,5,12000,2026-01-11
+Teclado,3,25000,2026-01-15
+Monitor,1,180000,2026-02-01
+Notebook,1,400000,2026-02-10
