@@ -39,3 +39,4 @@ Cómo ejecutar el proyecto
 Ejecutar el archivo ubicado en la carpeta /scripts.
 
 El proyecto fue pensado para funcionar correctamente desde Google Colab.
+Proyecto realizado utilizando GitHub, Jira y Google Colab.
